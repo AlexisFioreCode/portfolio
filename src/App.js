@@ -8,11 +8,12 @@ import Projets from './components/projets/Projets'
 function App() {
   return (
     <div>
-      <Header />
-      <Nav />
+      <div>
+        <Header />
+        <Nav />
+      </div>
       <Projets/>
-      <Footer />
-    
+      <Footer />   
     </div>
   );
 }
