@@ -14,9 +14,6 @@ body {
 .secondColor {
   color:#03224c; 
 }
-header {
-  height: 20vh;
-}
 footer {
   bottom: 0;
   width: 100%;
@@ -37,6 +34,6 @@ a[href^="mailto"] {
   color: #D4F2DB;
 }
 .card {
-  width: 18rem;
+  width: 100%;
   margin: 2vh auto;
 }

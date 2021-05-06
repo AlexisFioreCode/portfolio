@@ -1,6 +1,7 @@
 function Projets() {
     return(
-        <div className="container mt-2 text-center">
+        <div className="text-center container my-3">
+            <p className="secondColor">Mes Projets fait en formation</p>
             <div className="card">
                 <img src="" className="card-img-top" alt="..." />
                 <div className="card-body">
