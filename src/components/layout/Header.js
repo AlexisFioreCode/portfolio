@@ -1,11 +1,9 @@
 function Header() {
 
     return (
-        <header className="firstColor text-center text-white py-5">
-            <section className="container">
-                <h1 className="text-white">Alexis Fiorentino</h1>
-                <p className="lead">Développeur Web Junior en formation </p>
-            </section>
+        <header className="firstColor text-center text-white py-3">
+                <h1 className="secondColor name">Alexis Fiorentino</h1>
+                <p className="lead secondColor">Développeur Web Junior en formation </p>
         </header>
     );
 }
