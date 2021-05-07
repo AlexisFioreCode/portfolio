@@ -1,3 +1,13 @@
+/* fonts  */
+@font-face {
+  font-family: "Anton";
+  src: url("./font/Anton-Regular.ttf");
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("./font/Oswald-VariableFont_wght.ttf");
+}
+
 .App {
   text-align: center;
   position: relative;
@@ -7,21 +17,30 @@ body {
   background-color: #98bad4;
   color:#03224c
 }
-
+/* utility classes for color */
 .firstColor {
   background-color: #D4F2DB;
 }
 .secondColor {
   color:#03224c; 
 }
+
+/* Normal css */
 footer {
   bottom: 0;
   width: 100%;
+}
+header, nav , footer {
+  font-family: "Anton";
+}
+main {
+  font-family: "Oswald";
 }
 ul {
   display: flex;
   justify-content: space-evenly;
 }
+/* change mailto color and style */
 a[href^="mailto"] { 
   color: #03224c; 
   font-style: none;
@@ -36,4 +55,10 @@ a[href^="mailto"] {
 .card {
   width: 100%;
   margin: 2vh auto;
+  background-color: #D4F2DB;
+}
+.card a {
+  background-color: #98bad4;
+  color: #03224c;
+  border-color: #03224c;
 }
