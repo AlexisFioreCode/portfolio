@@ -16,20 +16,20 @@ function App() {
     <div>
       <Header />
       <Router>
-        <Nav />
-        <main>
-          <Switch>
-            <Route path="/projets">
-            <Projets/>
-            </Route>
-            <Route path="/bio">
-              <Bio/>
-            </Route>
-            <Route path="/">
-              <Projets />
-            </Route>
-          </Switch>
-        </main>
+      <Nav />
+      <main>
+        <Switch>
+          <Route path="/projets">
+          <Projets/>
+          </Route>
+          <Route path="/bio">
+            <Bio/>
+          </Route>
+          <Route path="/">
+            <Projets />
+          </Route>
+        </Switch>
+      </main>
       </Router>
       <Footer />   
     </div>
