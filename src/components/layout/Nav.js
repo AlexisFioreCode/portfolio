@@ -4,7 +4,7 @@ function Nav() {
         <nav className="firstColor py-2">
             <ul className="nav">
                 <li className="nav-item">
-                    <Link className="nav-link secondColor btn btn-outline hover slide-in-right" to="/projets">Projets</Link>
+                    <Link className="nav-link secondColor btn btn-outline hover slide-in-right" to="/projets"><i className="fas fa-file-code me-2"></i>Projets</Link>
                 </li>
                 <li className="nav-item">
                     <Link className="nav-link secondColor btn btn-outline hover slide-in-right" to="/bio"><i className="fas fa-user-alt me-2"></i>Bio</Link>
