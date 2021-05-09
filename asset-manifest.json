@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b701c107.chunk.css",
+    "main.js": "/portfolio/static/js/main.3d1c128c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3d1c128c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.24246282.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.24246282.js.map",
+    "static/js/2.707eca02.chunk.js": "/portfolio/static/js/2.707eca02.chunk.js",
+    "static/js/2.707eca02.chunk.js.map": "/portfolio/static/js/2.707eca02.chunk.js.map",
+    "static/js/3.4929ecc5.chunk.js": "/portfolio/static/js/3.4929ecc5.chunk.js",
+    "static/js/3.4929ecc5.chunk.js.map": "/portfolio/static/js/3.4929ecc5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.b701c107.chunk.css.map": "/portfolio/static/css/main.b701c107.chunk.css.map",
+    "static/js/2.707eca02.chunk.js.LICENSE.txt": "/portfolio/static/js/2.707eca02.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/Oswald-VariableFont_wght.88fc6c5b.ttf",
+    "static/media/Bankproject.9e357b84.png": "/portfolio/static/media/Bankproject.9e357b84.png",
+    "static/media/TDGproject.c5ec495c.png": "/portfolio/static/media/TDGproject.c5ec495c.png",
+    "static/media/memoproject.7ab70d99.png": "/portfolio/static/media/memoproject.7ab70d99.png",
+    "static/media/moi.293a5900.jpg": "/portfolio/static/media/moi.293a5900.jpg",
+    "static/media/starwarsproject.4806fa11.png": "/portfolio/static/media/starwarsproject.4806fa11.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24246282.js",
+    "static/js/2.707eca02.chunk.js",
+    "static/css/main.b701c107.chunk.css",
+    "static/js/main.3d1c128c.chunk.js"
+  ]
+}
