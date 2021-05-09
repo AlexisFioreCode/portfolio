@@ -15,7 +15,8 @@
 }
 body {
   background-color: #98bad4;
-  color:#03224c
+  color:#03224c;
+  max-height: 100vh;
 }
 /* utility classes for color */
 .firstColor {
@@ -35,6 +36,7 @@ body {
 footer {
   bottom: 0;
   width: 100%;
+  overflow: hidden;
 }
 header, nav , footer {
   font-family: "Anton";
@@ -125,3 +127,29 @@ a[href^="mailto"] {
   }
 }
 
+@media screen and (min-width : 768px) {
+  header {
+    float: left;
+    height: 11vh;
+    margin-left: 1vh;
+  }
+  nav {
+    height: 11vh
+  }
+  nav li {
+    margin-top: 2vh;
+  }
+  img.card-img-top {
+    float: left;
+  } 
+}
+
+@media screen and (min-width : 1024px) {
+  nav ul {
+    justify-content: flex-end;
+    margin-right: 2vh;
+  }
+  nav ul li {
+    margin-right: 3vh;
+  }
+}
