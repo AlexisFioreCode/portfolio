@@ -15,7 +15,7 @@ function Bio() {
                     et dernièrement c'est le monde du développement Web et le code en général qui me passione tellement
                     les connaissances sont immenses.</p>
                 </div>
-                <div className="col-12 col-lg-6"><img src={Moi}  className="img-fluid my-2 moi"/></div>                                 
+                <div className="col-12 col-lg-6"><img src={Moi} alt="Photo de Moi" className="img-fluid my-2 moi"/></div>                                 
             </div>
             <h3 className="my-4 anton">Mes compétences apprises pendant ma formation pour l'instant</h3>
             <ul class="list-group list-group-flush ">
