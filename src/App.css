@@ -11,12 +11,10 @@
 .App {
   text-align: center;
   position: relative;
-  min-height: 100vh;
 }
 body {
   background-color: #98bad4;
   color:#03224c;
-  max-height: 100vh;
 }
 /* utility classes for color */
 .firstColor {
@@ -151,5 +149,8 @@ a[href^="mailto"] {
   }
   nav ul li {
     margin-right: 3vh;
+  }
+  .moi {
+    height: 50vh;
   }
 }
