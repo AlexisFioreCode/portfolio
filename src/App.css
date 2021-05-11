@@ -68,7 +68,8 @@ a[href^="mailto"] {
   width: 100%;
   margin: 5vh auto;
   background-color: #afafaf;
-  transition: transform .4s
+  transition: transform .4s;
+  border: 2px solid #03224c;
 }
 .card a {
   background-color: #afafaf;
