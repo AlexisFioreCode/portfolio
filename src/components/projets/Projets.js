@@ -47,7 +47,7 @@ function Projets() {
                         <div className="card-body">
                             <h5 className="card-title">Projet Terre de Geek</h5>
                             <p className="card-text">Un projet HTML/CSS sans Javascript et sans Bootstrap pour expérimenter Flexbox et pour voir la création de Wireframe.</p>
-                            <a href="https://github.com/AlexisFioreCode/ProjetTDG" target='_blank' rel='noreferrer noopener' className="btn btn-primary m-1">Repo github</a>
+                            <a href="https://github.com/AlexisFioreCode/ProjetTDG" target='_blank' rel='noreferrer noopener' className="btn btn-primary hover m-1">Repo github</a>
                             <a href="https://alexisfiorecode.github.io/ProjetTDG/" target='_blank'  rel='noreferrer noopener' className="btn btn-primary hover m-1">GH-page</a>
                         </div>
                     </div>
